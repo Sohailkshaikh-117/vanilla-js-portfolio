@@ -293,9 +293,8 @@
 =========================== */
 
 .activeTab {
-  background-color: var(--transparent);
-  height: 45px !important;
-  width: 45px !important;
+  background-color: var(--accent-secondary-transparent);
+  /* box-shadow: var(); */
 }
 
 .activeContent {
