@@ -3,24 +3,17 @@
         "Header_Title_Part1": "Hi, I am ",
         "Header_Title_Part2": "Capitano-781"
     },
-    "Header_Tag": "Frontend Engineer | MERN Stack",
-    "Header_Description": "I build scalable React applications and maintainable UI systems that prioritize clean architecture, performance, and real-world product needs.",
-    "Header_ViewWorkButtonLabel": "View my work",
+    "Header_Tag": "Lorem, ipsum doldipisicing elit",
+    "Header_Description": "Lorem, ipsum doldipisicing eliteaLorem, ipsum doldipisicing eliteaLorem, ipsum doldipisicing eliteaLorem, ipsum doldipisicing eliteaLorem, ipsum doldipisicing elitea",
+    "Header_ViewWorkButtonLabel": "Lorem, ipsum doldipisicing elitea",
     "Header_Image_Url": "/assets/images/illustrations/RE.png",
     "Project_Section": {
         "Title": "PROJECTS",
-        "Secondary_Title": "A mix of personal projects and work I’ve contributed to.",
-        "ProjectSectionLabels": {
-            "ChallengesAndLearningsSectionTitle": "ChallengesAndLearnings",
-            "TechnologiesUsedSectionTitle": "TechnologiesUsed",
-            "KeyFeaturesSectionTitle": "KeyFeatures",
-            "OverviewSectionTitle": "Overview",
-            "ScreenShotsSectionTitle": "ScreenShots"
-        },
+        "Secondary_Title": "Lorem, ipsum doldipisicing eliteaLorem, ipsum doldipisicing elitea",
         "Projects": [
             {
-                "Title": "Sample project name big and lengthy",
-                "OnelineDescription": "A robust tool for calculating Value at Risk (VaR) for an UST (United States Treasury) Portfolio, employing a C# thick client GUI with a Python FastAPI ",
+                "Title": "Lorem, ipsum doldipisicing elitea",
+                "OnelineDescription": "Lorem, ipsum doldipisicing elitea",
                 "indexPageButtonLabel": "Learn more",
                 "backToHomeButtonLabel": "Back to Portfolio",
                 "BriefDescription": "A robust tool for calculating Value at Risk (VaR) for an UST (United States Treasury) Portfolio, employing a C# thick client GUI with a Python FastAPI server backend and SQL Server database. This application helps investors analyze and optimize their portfolio's market risk.",
@@ -124,76 +117,6 @@
                                 "label": "demo link",
                                 "iconType": "liveLink"
                             }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Title": "Sample project name big and lengthy",
-                "OnelineDescription": "A robust tool for calculating Value at Risk (VaR) for an UST (United States Treasury) Portfolio, employing a C# thick client GUI with a Python FastAPI ",
-                "indexPageButtonLabel": "Learn more",
-                "backToHomeButtonLabel": "Back to Portfolio",
-                "BriefDescription": "A robust tool for calculating Value at Risk (VaR) for an UST (United States Treasury) Portfolio, employing a C# thick client GUI with a Python FastAPI server backend and SQL Server database. This application helps investors analyze and optimize their portfolio's market risk.",
-                "madeWith": [
-                    "HTML",
-                    "CSS",
-                    "Javascript"
-                ],
-                "sections": [
-                    {
-                        "title": "Overview",
-                        "iconUrl": "icons/overview.svg",
-                        "type": "plainList",
-                        "content": [
-                            {
-                                "primaryText": "",
-                                "secondaryText": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi odio rem perferendis, ex repellendus suscipit exercitationem labore fugit assumenda! Dolorum vel architecto quos repellendus, eum doloremque error pariatur modi natus?"
-                            },
-                            {
-                                "primaryText": "Point about something:",
-                                "secondaryText": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi odio rem perferendis, ex repellendus sdis, ex repellendus sdis, ex repellendus suscipit exercitationem labore fugit assumenda! Dolorum vel architecto quos repellendus, eum doloremque error pariatur modi natus?"
-                            },
-                            {
-                                "primaryText": "Point about something:",
-                                "secondaryText": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi odio rem perferendis"
-                            },
-                            {
-                                "primaryText": "Point about something:",
-                                "secondaryText": "Lorem, ips sit amet consectetur. Nisi odio rem perferendis"
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Features",
-                        "iconUrl": "icons/feature.svg",
-                        "type": "plainList",
-                        "content": [
-                            {
-                                "primaryText": "C# Thick Client GUI",
-                                "secondaryText": "User-friendly interface for easy portfolio construction, data input, and result visualization."
-                            },
-                            {
-                                "primaryText": "Python FastAPI Backend:",
-                                "secondaryText": "High-performance API for serving VaR calculations and data retrieval."
-                            },
-                            {
-                                "primaryText": "SQL Server Database:",
-                                "secondaryText": "Secure and scalable data storage for instrument data, portfolio information, and historical market data."
-                            },
-                            {
-                                "primaryText": "Comprehensive VaR Calculations:",
-                                "secondaryText": "Supports Historical Simulation and Parametric VaR methodologies with adjustable confidence levels."
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Tech stack",
-                        "iconUrl": "icons/techStack.svg",
-                        "type": "largeIconTextBoxList",
-                        "content": [
-                            "HTML",
-                            "CSS",
-                            "Javascript"
                         ]
                     }
                 ]
