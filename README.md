@@ -104,7 +104,7 @@ By implementing these concepts manually, the architectural foundations become cl
 
 ## 🔗 Live Demo
 
-[View Portfolio](https://capitano781.github.io/)
+[View Portfolio](https://sohailkshaikh-117.github.io/portfolio/)
 
 ---
 
