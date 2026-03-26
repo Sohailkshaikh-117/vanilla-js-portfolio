@@ -403,12 +403,6 @@
                 "iconType": "emailIcon"
             },
             {
-                "link": "assets/documents/SK_Resume.pdf",
-                "hyperlink_Label_Text": "Download Resume",
-                "type": "downloadDoc",
-                "iconType": "downloadIcon"
-            },
-            {
                 "link": "https://github.com/Sohailkshaikh-117",
                 "hyperlink_Label_Text": "View GitHub",
                 "type": "externalLink",
