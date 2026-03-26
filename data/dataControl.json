@@ -348,14 +348,22 @@
             {
                 "Category": "Frontend",
                 "Descriptions": [
+                    "React.js",
                     "Javascript (ES6+)",
                     "HTML5",
                     "CSS3",
-                    "React.js",
-                    "React Hooks",
                     "Redux",
+                    "React Hooks",
+                    "Context API"
+                ]
+            },
+            {
+                "Category": "UI & Styling",
+                "Descriptions": [
+                    "Material UI",
+                    "Bootstrap",
                     "Responsive Design",
-                    "Bootstrap"
+                    "Figma"
                 ]
             },
             {
@@ -363,33 +371,23 @@
                 "Descriptions": [
                     "Node.js",
                     "Express.js",
-                    "REST APIs"
+                    "REST APIs",
+                    "MongoDB"
                 ]
             },
             {
-                "Category": "Database",
+                "Category": "Tools & Platforms",
                 "Descriptions": [
-                    "MongoDB",
-                    "SQL"
-                ]
-            },
-            {
-                "Category": "Tools & Workflow",
-                "Descriptions": [
+                    "Azure DevOps",
+                    "Azure Pipelines",
                     "Git",
                     "GitHub",
-                    "Postman",
-                    "Chrome DevTools",
                     "VS Code",
-                    "AI-assisted Debugging",
-                    "Figma"
-                ]
-            },
-            {
-                "Category": "Methodologies",
-                "Descriptions": [
-                    "Agile",
-                    "Scrum"
+                    "Postman",
+                    "Jira",
+                    "Cursor",
+                    "Copilot",
+                    "Claude"
                 ]
             }
         ]
@@ -405,10 +403,22 @@
                 "iconType": "emailIcon"
             },
             {
+                "link": "assets/documents/SK_Draft3.pdf",
+                "hyperlink_Label_Text": "Download Resume",
+                "type": "downloadDoc",
+                "iconType": "downloadIcon"
+            },
+            {
                 "link": "https://github.com/Sohailkshaikh-117",
                 "hyperlink_Label_Text": "View GitHub",
                 "type": "externalLink",
                 "iconType": "githubIcon"
+            },
+            {
+                "link": "https://www.linkedin.com/in/sohail-k-shaikh/",
+                "hyperlink_Label_Text": "View Linkedin",
+                "type": "externalLink",
+                "iconType": "linkedinIcon"
             }
         ]
     },
