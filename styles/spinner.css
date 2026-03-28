@@ -18,8 +18,6 @@
     z-index: var(--loaderOverlay);
 }
 
-.loaderContent {}
-
 .loaderDot {
     background: var(--cb-accent);
     display: inline-block;
@@ -51,10 +49,6 @@
         background: var(--cb-accent-ocean-green);
         opacity: 1;
     }
-
-    /* 25% {
-        background: var(--cb-accent);
-    } */
 
     100% {
         background: var(--cb-accent);

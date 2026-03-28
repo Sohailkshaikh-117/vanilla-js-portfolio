@@ -33,8 +33,6 @@
 .halos-container {
     height: 200%;
     width: 200%;
-    /* background: conic-gradient(#0a1f2e, #002d39, #00889f, #0a1f2e); */
-    /* background: radial-gradient(circle at center, #0a1f2e 0%, #050b14 70%); */
     background: radial-gradient(circle at center, #229faa -16%, #050b14 47%);
     perspective: 1000px;
     position: relative;
@@ -119,37 +117,31 @@
 }
 
 .halo-1 {
-    /* animation: halo-1 10s linear infinite; */
     animation: halo-1 20s linear infinite;
     animation-play-state: running;
 }
 
 .halo-2 {
-    /* animation: halo-2 13s linear infinite; */
     animation: halo-2 17s linear infinite;
     animation-play-state: running;
 }
 
 .halo-3 {
-    /* animation: halo-3 8s linear infinite; */
     animation: halo-3 14s linear infinite;
     animation-play-state: running;
 }
 
 .halo-4 {
-    /* animation: halo-4 15s linear infinite; */
     animation: halo-4 11s linear infinite;
     animation-play-state: running;
 }
 
 .halo-5 {
-    /* animation: halo-5 6s linear infinite; */
     animation: halo-5 10s linear infinite;
     animation-play-state: running;
 }
 
 .halo-6 {
-    /* animation: halo-6 5s linear infinite; */
     animation: halo-6 15s linear infinite;
     animation-play-state: running;
 }
